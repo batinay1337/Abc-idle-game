@@ -1,2 +1,3 @@
 # Abc-idle-game
-Not Defteri üzerinden ilk değişiklik!
+
+Karakterin tasarımı, animasyonu ve tam verimli yürüme şemalarını bitirdim. Map kısmında günü tamamlıyorum. 
